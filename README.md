@@ -1,6 +1,6 @@
 # Project1-DoTa
 Project1-Dota created by GitHub Classroom
- Website giới thiệu sản phẩm: https://dotahilu.github.io/
+- Website giới thiệu sản phẩm: https://dotahilu.github.io/
 # Danh sách thành viên nhóm:
 1. Phạm Anh Quốc - 1612543 (trưởng nhóm)
 2. Hoàng Thiên Nữ - 1612880
