@@ -41,6 +41,7 @@ Việc tìm kiếm một nơi học tiếng Anh phổ biến thường thông qu
 - Nếu thành công, nhóm sẽ làm thêm mobile app, kiếm tiền từ quảng cáo.
 
 # Giải pháp chi tiết:
+
 ## Về mặt kĩ thuật:
 
 ### Cơ chế Login:
