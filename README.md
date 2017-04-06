@@ -30,15 +30,19 @@ Việc tìm kiếm một nơi học tiếng Anh phổ biến thường thông qu
 
 ## Lợi ích mỗi bên:
 ### Người dùng:
-- Tìm được môi trường học phù hợp một cách nhanh chóng, tiện lợi, chính xác hơn.
-- Đối với những reviewer, tích đủ điểm sẽ nhận được những phần quà giá trị như voucher giảm học phí, từ điển, e-book, bộ CV mẫu, ...
+- Tìm được môi trường học phù hợp một cách nhanh chóng, tiện lợi, chính xác.
+- Săn được voucher giảm học phí và các phần quà giá trị khác.
 - Giao lưu kết bạn, cùng nhau chia sẻ kinh nghiệm.
 ### Trung tâm Anh ngữ:
-- Có một nơi quảng cáo miễn phí.
-- Nắm bắt được tâm lí học viên, từ đó thay đổi phương pháp giảng dạy sao cho hiệu quả và thu hút được nhiều học viên.
+- Tăng danh tiếng
+- Giới thiệu trung tâm đến đông đảo người học, đặc biết là khách hàng tiềm năng nhất- những người tìm kiếm trung tâm học tiếng Anh.
+- Hỗ trợ quảng cáo các khóa học, các chương trình khuyến mãi.
+- Nắm bắt được tâm lí học viên, từ đó thay đổi phương pháp giảng dạy sao cho hiệu quả và cuốn hút.
 ### Nhóm - ban quản trị website:
 - Tạo được một cộng đồng học Anh văn rộng lớn, dược nhiều người biết đến.
-- Nếu thành công, nhóm sẽ làm thêm mobile app, kiếm tiền từ quảng cáo.
+- Nhận tiền hoa hồng từ các trung tâm dựa vào số lượng người đăng kí khóa học.
+- Nhận tiền đặt quảng cáo của các trung tâm lên website.
+- Nếu thành công, nhóm sẽ làm thêm mobile app, kiếm tiền từ các loại quảng cáo khác.
 
 # Giải pháp chi tiết:
 
@@ -60,12 +64,13 @@ Việc tìm kiếm một nơi học tiếng Anh phổ biến thường thông qu
 ### Thuật toán tìm kiếm:
 - Website cho phép người dùng tìm kiếm trung tâm theo mong muốn. Người dùng có thể:
     Tìm kiếm bằng cách nhập text
-    Tìm kiếm thông tin nâng cao với các mục: địa chỉ, học phí, môn học
+    Tìm kiếm thông tin nâng cao với các mục: địa điểm, học phí, môn học.
 - Để tìm kiếm trong trang web, nhóm sẽ sử dụng custom search engine được cung cấp sẵn của Google. Link: https://cse.google.com/cse/
 - Cơ chế hoạt động của search egine Google:
     1. Google đã sử dụng các web crawler, spider để tạo cơ sở dữ liệu.
     2. Khi người dùng nhập chuỗi, google sẽ sử dụng thuật toán Penguin để xử lý (https://moz.com/google-algorithm-change)
     3. Gửi trả lại kết quả theo độ ưu tiên đã định.
+- Khi tìm kiếm theo mục(ví dụ: học phí), cần một cơ sở để sắp xếp độ ưu tiên hiển thị các trung tâm cùng đáp ứng mục đó (ví dụ: cùng học phí dưới 1.000.000đ). Nhóm đề xuất phương pháp một là căn cứ vào điểm số của mỗi trung tâm. Điểm số này do người dùng đánh giá, gồm 3 tiêu chí: cơ sở vật chất, học phí và chất lượng giảng dạy.
 
 ## Về mặt thương mại:
 ### Cách tính điểm cho reviewer và quà tặng:
